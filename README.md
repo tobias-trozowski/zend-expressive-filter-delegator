@@ -1,10 +1,11 @@
 # zend-expressive-filter-delegator
 
+[![License](https://poser.pugx.org/tobias/zend-expressive-filter-delegator/license)](https://packagist.org/packages/tobias/zend-expressive-filter-delegator)
 [![Latest Stable Version](https://poser.pugx.org/tobias/zend-expressive-filter-delegator/v/stable)](https://packagist.org/packages/tobias/zend-expressive-filter-delegator)
-[![Total Downloads](https://poser.pugx.org/tobias/zend-expressive-filter-delegator/downloads)](https://packagist.org/packages/tobias/zend-expressive-filter-delegator)
+[![PHP 7 ready](http://php7ready.timesplinter.ch/tobias-trozowski/zend-expressive-filter-delegator/badge.svg)](https://travis-ci.org/tobias-trozowski/zend-expressive-filter-delegator)
 [![Build Status](https://travis-ci.org/tobias-trozowski/zend-expressive-filter-delegator.svg?branch=master)](https://travis-ci.org/tobias-trozowski/zend-expressive-filter-delegator)
 [![Coverage Status](https://coveralls.io/repos/tobias-trozowski/zend-expressive-filter-delegator/badge.svg?branch=master)](https://coveralls.io/r/tobias-trozowski/zend-expressive-filter-delegator?branch=master)
-[![License](https://poser.pugx.org/tobias/zend-expressive-filter-delegator/license)](https://packagist.org/packages/tobias/zend-expressive-filter-delegator)
+[![Total Downloads](https://poser.pugx.org/tobias/zend-expressive-filter-delegator/downloads)](https://packagist.org/packages/tobias/zend-expressive-filter-delegator)
 
 Delegator for Zend [FilterPluginManager](https://github.com/zendframework/zend-filter)
 
